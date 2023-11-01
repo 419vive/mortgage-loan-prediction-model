@@ -39,13 +39,6 @@ Our approach encapsulates a series of analytical and machine learning methodolog
 
 The culmination of our analysis and model training will shed light on the significant features that sway real estate prices, enabling us to make precise property price predictions. The Jupyter notebook houses all specific results and detailed findings.
 
-## Usage
-
-To immerse yourself in the analysis and explore the results, fire up the Jupyter notebook and run the cells:
-
-```bash
-jupyter notebook "Capstone Prod3.ipynb"
-
 ## Requirements
 
 Python 3.x
@@ -54,7 +47,17 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
-Contact
-Should you have any questions or encounter any issues, feel free to reach out to Your Name.
+
+## Contact
+Should you have any questions or encounter any issues, feel free to reach out to Jerry Lai:419vive@gmail.com
+
+
+
+## Usage
+
+To immerse yourself in the analysis and explore the results, fire up the Jupyter notebook and run the cells:
+
+```bash
+jupyter notebook "Capstone Prod3.ipynb"
 
 
