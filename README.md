@@ -55,6 +55,6 @@ Seaborn
 Jupyter Notebook
 Contact
 <p align="justify">
-Should you have any questions or encounter any issues, feel free to reach out to [Your Name](mailto:your.email@example.com).
+Should you have any questions or encounter any issues, feel free to reach out to [Jerry Lai](mailto:419vive@gmail.com.com).
 </p>
 
