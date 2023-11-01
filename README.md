@@ -46,4 +46,15 @@ To immerse yourself in the analysis and explore the results, fire up the Jupyter
 ```bash
 jupyter notebook "Capstone Prod3.ipynb"
 
+## Requirements
+
+Python 3.x
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Contact
+Should you have any questions or encounter any issues, feel free to reach out to Your Name.
+
 
